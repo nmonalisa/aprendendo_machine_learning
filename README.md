@@ -1,9 +1,8 @@
 ### Aprendizado de Máquina
 
-#### :dart:   1. Objetivo
-O objetivo desse repositório é armazenar os códigos dos meus estudos sobre Machine Learning durante a realizacão do curso Machine Learning de A-Z (Plataforma Udemy). <br>
-Mais detalhes sobre cada atividade podem ser vistos no Read-me específico de cada pasta. Basta navegar pelos diretórios.
+####  1. Objetivo :dart: 
+O objetivo desse repositório é armazenar os códigos dos meus estudos sobre Machine Learning durante a realizacão do curso Machine Learning de A-Z (Plataforma Udemy). 
 
-####  :white_check_mark:    2.Mini-projetos desenvolvidos:
-##### Classificação:
-A.Atividade que usa uma base histórica de crédito para prever se um cliente irá pagar ou não o empréstimo fornecido pela insituicão credora (como um banco, por exemplo)
+
+####  2.Mini-projetos desenvolvidos :white_check_mark:
+**Classificação:** análise com base histórica de crédito para prever se um cliente irá pagar ou não o empréstimo fornecido pela insituição credora. Algoritmos utilizados: Naive-Bayes, Árvore de Decisão, Random Forest, KNN e Regressão Logística.
