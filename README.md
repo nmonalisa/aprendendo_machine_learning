@@ -1,7 +1,7 @@
 ### Aprendizado de Máquina
 
 ####  1. Objetivo :dart: 
-O objetivo desse repositório é armazenar os códigos dos meus estudos sobre Machine Learning durante a realizacão do curso Machine Learning. 
+O objetivo desse repositório é armazenar os códigos dos meus estudos sobre Machine Learning durante a realizacão de cursos on-line. 
 
 
 ####  2.Mini-projetos desenvolvidos :white_check_mark:
